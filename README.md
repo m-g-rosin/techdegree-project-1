@@ -1,2 +1,2 @@
-# techdegree-project-1 
- firdt techdegree project
+# Techdegree Project 1
+ first techdegree project
